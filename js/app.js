@@ -3,7 +3,7 @@ const base_sort = "date";
 let $videoSrc;
 
 $(document).ready(function() {
-  initDummyLoad(); //for DEV purpose.  comment out "Ln121 search()" to save resource.
+  // initDummyLoad(); //for DEV purpose.  comment out "Ln121 search()" to save resource.
 
 // When user click search btn, render "Tour de France" videos (24) with the keyword ordered by date.
   $("#search_form").on("submit", function(e) {
@@ -138,9 +138,9 @@ function resultsLoop(data){
 
 // set up google api.
 function init() {
-  gapi.client.setApiKey("AIzaSyDAPShIt5LqMJq6FjwxUKiPADBzeN15ck8");
+  gapi.client.setApiKey("AIzaSyDrbGysEfXL2VFj9ohsyxM6q2M1_T2SvXs");
   gapi.client.load("youtube", "v3", function() {
-    // search();
+    search();
   });
 }
 
