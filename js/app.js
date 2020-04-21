@@ -115,7 +115,7 @@ function resultsLoop(data){
     $("#results").append(`
     <div class="col-sm-6 col-md-4 panel">
       <li>
-        <button type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="http://www.youtube.com/embed/${videoid}" data-target="#myModal">
+        <button type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/${videoid}" data-target="#myModal">
           <img src="${thumb}" alt="thumbnail image">
         </button>
         <div class= "details">
