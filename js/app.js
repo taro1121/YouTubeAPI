@@ -138,7 +138,7 @@ function resultsLoop(data){
 
 // set up google api.
 function init() {
-  gapi.client.setApiKey("");
+  gapi.client.setApiKey("AIzaSyDAPShIt5LqMJq6FjwxUKiPADBzeN15ck8");
   gapi.client.load("youtube", "v3", function() {
     // search();
   });
