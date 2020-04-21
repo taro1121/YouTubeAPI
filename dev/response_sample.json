@@ -1,0 +1,573 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/xiF-eOqFGBvEeIBvmbZULG_tl00\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 189,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/q6Aq5ChuewjxSr5Oy52R0tQDSMc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZacOS8NBK6U"
+   },
+   "snippet": {
+    "publishedAt": "2019-07-25T12:00:07.000Z",
+    "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+    "title": "Why the Tour de France is so brutal",
+    "description": "It's all about the climbs. Subscribe to our channel! http://goo.gl/0bsAjO The Tour de France is the most prominent cycling race in the world. It's now in its 109th ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZacOS8NBK6U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZacOS8NBK6U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZacOS8NBK6U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Vox",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/CnfRnu4zNCWUaJDuOW3wyES8w_g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ntkph3l2D1c"
+   },
+   "snippet": {
+    "publishedAt": "2016-10-18T17:48:36.000Z",
+    "channelId": "UCSpycUnuU0IVF7gGIhGojhg",
+    "title": "Best of - Tour de France 2016",
+    "description": "Plus d'informations sur / More information on: http://www.letour.fr https://www.facebook.com/letour https://twitter.com/letour ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ntkph3l2D1c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ntkph3l2D1c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ntkph3l2D1c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tour de France",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/8h52Hgsi1AV_cD2OTKcY5UG4WXk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tbSg7ZfvI_M"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-24T16:37:17.000Z",
+    "channelId": "UCUOGkgBm_q4htxJhKOrxeUg",
+    "title": "Peter Sagan | Top 10 Finish 2019",
+    "description": "Peter Sagan | Best Cycling Finish | Full HD | 60FPS | 2019 with commentator. Contact with me - live.cycling@wp.pl ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tbSg7ZfvI_M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tbSg7ZfvI_M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tbSg7ZfvI_M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Live Cycling",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/A5gQiX_ofFjNdxmZkS-HKD9YRmA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "g9M3hoy0Uy0"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-12T19:46:55.000Z",
+    "channelId": "UC7KWK-ybrRRuAs58In_ZptQ",
+    "title": "Nairo Quintana Tour 2018 Etapa 17",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g9M3hoy0Uy0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g9M3hoy0Uy0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g9M3hoy0Uy0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Marco A. Mtz",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/vLgqH4J3d4gkoaTg0NV78JXLMtM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nkdID_tHchQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-29T20:09:59.000Z",
+    "channelId": "UCSpycUnuU0IVF7gGIhGojhg",
+    "title": "Best of - Tour de France 2018",
+    "description": "From Saturday 7th of July to Sunday 29th of July 2018, the 105th Tour de France includes 21 stages for a total length of 3 351 kilometers. THOMAS Geraint is the ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nkdID_tHchQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nkdID_tHchQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nkdID_tHchQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tour de France",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/feXxHhTtpReBiLJaFTeUJmmZ3so\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DFttKvN9X9w"
+   },
+   "snippet": {
+    "publishedAt": "2019-07-28T21:05:49.000Z",
+    "channelId": "UCSpycUnuU0IVF7gGIhGojhg",
+    "title": "Best of - Tour de France 2019",
+    "description": "From Saturday 6th of July to Sunday 28th of July 2019, the 106th Tour de France includes 21 stages for a total length of 3 460 kilometers. BERNAL Egan is the ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DFttKvN9X9w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DFttKvN9X9w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DFttKvN9X9w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tour de France",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/OwAEzabh4C_Cl8wkbd1OvCQ3DW0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0khTbt6KufE"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-13T06:14:36.000Z",
+    "channelId": "UC_K0S2GbXYI9Fc77d6oRE7w",
+    "title": "The Best Lance Armstrong Tour De France Documentary Nobody Has Ever Watched",
+    "description": "My webstore for all the best ebooks and private one on one coaching by me. https://durianrider.com/collections/all Follow me on Strava to see ALL my daily ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0khTbt6KufE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0khTbt6KufE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0khTbt6KufE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "durianrider",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/d2YIimaKkHMD9GEv458KU7gzO08\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UfHddpDB1T8"
+   },
+   "snippet": {
+    "publishedAt": "2019-07-30T01:08:08.000Z",
+    "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+    "title": "Tour de France 2019: Top 10 moments | NBC Sports",
+    "description": "Take a look back at the top 10 moments from the 2019 Tour de France. #NBCSports #Cycling #TourdeFrance » Subscribe to NBC Sports: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UfHddpDB1T8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UfHddpDB1T8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UfHddpDB1T8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "NBC Sports",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/4wsQm2FPULvuo5t2D7vTmQ2ByUk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vjci1lf0fj4"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-15T10:00:09.000Z",
+    "channelId": "UCSpycUnuU0IVF7gGIhGojhg",
+    "title": "Best Moments - Tour de France 2019",
+    "description": "Plus d'informations sur / More information on: https://www.letour.fr https://www.facebook.com/letour https://twitter.com/letour ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vjci1lf0fj4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vjci1lf0fj4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vjci1lf0fj4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tour de France",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/Y5CZcE6-01tuQx0SUjYbTynonq0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tHlkSsoo2Fs"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-20T11:00:09.000Z",
+    "channelId": "UCyrQSvn6_25rINepVZ6H0qQ",
+    "title": "Top 5  - Custom Tour de France Bikes",
+    "description": "With 22 teams and 176 riders starting the Tour de France, the stars of the race can often get lost in the spectrum of colours within the peloton. Combine this with ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tHlkSsoo2Fs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tHlkSsoo2Fs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tHlkSsoo2Fs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BikeRadar",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/5JjgtyoT7OA5WctfHRLyg-6QKbE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LmbAqQTx2hk"
+   },
+   "snippet": {
+    "publishedAt": "2019-07-26T18:12:13.000Z",
+    "channelId": "UCSpycUnuU0IVF7gGIhGojhg",
+    "title": "Summary - Stage 19 - Tour de France 2019",
+    "description": "From Saturday 6th of July to Sunday 28th of July 2019, the 106th Tour de France includes 21 stages for a total length of 3 460 kilometers. won the stage in ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LmbAqQTx2hk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LmbAqQTx2hk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LmbAqQTx2hk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tour de France",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/XFc3sSIXuBfzbTHRNTtZ6FQZQGs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "To9dIHezK5I"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-12T19:38:47.000Z",
+    "channelId": "UC92yj8M3Y8MfrF66ijAgz8w",
+    "title": "FEDUK x MSB4x4 – TOUR DE FRANCE",
+    "description": "CASUAL STREET.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/To9dIHezK5I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/To9dIHezK5I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/To9dIHezK5I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Влад Митин",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/HMrV4uAsZ1zbgmYLRqwiYOooBnE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ca6Ny66Qtps"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-10T05:26:41.000Z",
+    "channelId": "UCvdk8NYS7ItskDJhoTzG0Iw",
+    "title": "Cycling Tour de France 2010 Part 7",
+    "description": "In part 7 of the Tour the France 2010, 3 stages are covered: • Stage 17: 22 July - Pau to Col du Tourmalet - 174 km (108 mi) - Mountain stage • Stage 18: 23 July ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ca6Ny66Qtps/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ca6Ny66Qtps/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ca6Ny66Qtps/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Steven Even",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/-FFr4QsVdwJQQhGLrEag8c0RTAc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_YxeHs26E_I"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-14T13:26:42.000Z",
+    "channelId": "UCSpycUnuU0IVF7gGIhGojhg",
+    "title": "Paris-Nice 2020 - Stage 7 - Climbing",
+    "description": "Defending Tour de France champion Egan Bernal leads an ambitious Columbian contingent with Nairo Quintana and Sergio Higuita as serious rivals, but ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_YxeHs26E_I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_YxeHs26E_I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_YxeHs26E_I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tour de France",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/tydbanY8wEB1wfL2z7_KHX60cjA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "j9OPewvIjcE"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-14T15:51:49.000Z",
+    "channelId": "UCSpycUnuU0IVF7gGIhGojhg",
+    "title": "Paris-Nice 2020 - Stage 7 - Highlights",
+    "description": "Stage 7 Nice / Valdeblore La Colmiane is won by QUINTANA Nairo in front of BENOOT Tiesj and PINOT Thibaut. At the end of the stage, the individual ranking is ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/j9OPewvIjcE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/j9OPewvIjcE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/j9OPewvIjcE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tour de France",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/x9bpWJGFfTgwAcAd3GaKqTuH3zY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0oFbRZiBalg"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-01T09:58:01.000Z",
+    "channelId": "UCi6phyIIxNQHl_yKdV3OrZQ",
+    "title": "Tour de France 2016 stage 19 full stage",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0oFbRZiBalg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0oFbRZiBalg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0oFbRZiBalg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "adri vid506cz",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/09itS5lm9P2HgfUG3N8UpjQXDBA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "CQQA2AMDSdc"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-16T08:39:07.000Z",
+    "channelId": "UCZEV0Uusw_ulZmHWRMOM7jQ",
+    "title": "Best of du Tour de France 2019",
+    "description": "Revivez les meilleurs moments du Tour de France 2019 !",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CQQA2AMDSdc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CQQA2AMDSdc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CQQA2AMDSdc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LCL",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
