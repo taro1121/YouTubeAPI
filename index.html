@@ -1,59 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/style.css" type="text/css"></style>
-		<!-- <link rel="icon" href="img/favicon.ico"> -->
 		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 		<title>Tour de France YouTube Collection</title>
 		<meta charset="utf-8">
 		<meta name="description" content="List of Tour de France related YouTube videos.">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<!-- <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script> -->
-		<script src="https://kit.fontawesome.com/e56564013c.js" crossorigin="anonymous"></script>
-
-		<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+		<script src="https://kit.fontawesome.com/e56564013c.js"></script>
 	</head>
 
 	<body>
-		<div id="wrapper">
-			<div id="header">
-					<ul id="header-wrap" class="font-weight-bold">
-						<div class="row">
-							<div class="col-md-6">
-								<li id="header-logo">
-									<h5>Tour de France YouTube Collection</h5>
-								</li>
-							</div>
-							<div class="col-md-6">
-								<li id="header-search">
-									<form id="search_form" action="/" method="POST" class="search_container">
-										<input type="text" id="search" name="keyword" value class="search-box" placeholder="Keyword Search" maxlength="20" style="width: 200px; height: 40px">
-										<input type="submit" value="Search">
-									</form>
-								</li>
-							</div>
-						</div>
-					</ul>
+		<div id="header">
+			<div id="header_title">
+				<h3>Tour de France YouTube Collection</h3>
 			</div>
-			<div id="main">
-				<div id="contents">
-					<ul class="dmenu">
-						<li>Sort by</li>
-						<li><div id="bydate" class="sort" value="date"><a href="/">Date</a></div></li>
-						<li><div id="byviewcount" class="sort" value="viewCount"><a href="/">View Count</a></div></li>
-						<li><div id="byrating" class="sort" value"rating"><a href="/">Rating</a></div></li>
-						<li><div id="byrelevance" class="sort" value="relevance"><a href="/">Relevance</a></div></li>
-					</ul>
+			<div id="header_search">
+				<form id="search_form" action="/" method="POST" class="search_container">
+					<input type="text" id="search" name="keyword" value class="search-box" placeholder="Keyword Search" maxlength="20" style="width: 200px; height: 30px">
+					<input type="submit" value="Search" class="btn">
+				</form>
+			</div>
+		</div>
+		<div id="main">
+			<div id="contents">
+				<ul class="dmenu">
+					<li>Sort by:</li>
+					<li><div id="bydate" class="sort" value="date"><a href="/">Date</a></div></li>
+					<li><div id="byviewcount" class="sort" value="viewCount"><a href="/">View Count</a></div></li>
+					<li><div id="byrating" class="sort" value="rating"><a href="/">Rating</a></div></li>
+					<li><div id="byrelevance" class="sort" value="relevance"><a href="/">Relevance</a></div></li>
+				</ul>
+				<div class="panel-container my-0 mx-auto">
 					<div class="row" id="results">
 							<i class="fas fa-spinner fa-spin fa-5x"></i>
 					</div>
 				</div>
 			</div>
-			<div id="footer">
-				<span>Tour de France YouTube Collection is made by <a href="https://developers.google.com/youtube/v3" target="_blank">YouTube Data API</a> &copy;2020</span>
-				<span id="footer-modify"></span>
-			</div>
+		</div>
+		<div id="footer">
+			<span>Tour de France YouTube Collection is made by <a href="https://developers.google.com/youtube/v3" target="_blank">YouTube Data API</a> &copy;2020</span>
+			<span id="footer-modify"></span>
 		</div>
 
 		<!-- Modal -->
@@ -76,8 +64,7 @@
 		<script src="js/jquery-3.3.1.min.js"></script>
 		<script src="js/app.js"></script>
 		<script src="https://apis.google.com/js/client.js?onload=init"></script>
-		<!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script> -->
-		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 	</body>
 </html>
