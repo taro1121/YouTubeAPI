@@ -18,8 +18,6 @@
     $(".sort").on("click", function(e) {
       e.preventDefault();
       let $sortValue = $(this).attr("value");
-      console.log("$sortValue is: " + $sortValue);
-
       sortBy(copyKeyword(), $sortValue);
     });
 
@@ -32,20 +30,17 @@
     $('#myModal').on('hide.bs.modal', function(e) {
       $("#video").attr('src',$videoSrc);
     })
-    $(window).on("resize", resetVideoHeight);//work on later
   });
 
   // base search fn.  search by base + custom keyword and sort by date (up to 24).
   function search() {
     let keyword = encodeURIComponent($("#search").val()).replace(/%20/g, "+");
-    console.log("keyword is: " + keyword);
     createRequest(keyword, base_sort);
   }
 
   // fn to copy keyword in the search box.
   function copyKeyword() {
     let search_keyword = encodeURIComponent($("#search").val()).replace(/%20/g, "+");
-    console.log("search_keyword is: " + search_keyword);
     return search_keyword;
   }
 
@@ -56,8 +51,6 @@
 
   function createRequest(keyword, sortValue) {
     let api_keyword = base_keyword + keyword;
-    console.log("api_keyword is: " + api_keyword);
-
     let request = gapi.client.youtube.search.list({
       part: "snippet",
       type: "video",
@@ -67,12 +60,10 @@
       publishedAfter: "2010-01-01T00:00:00Z"
     });
 
-    console.log("request is: " + request);
     request.execute(response => {
       let results = response.result;
         $("#results").html("");
         resultsLoop(results);
-        resetVideoHeight();
     });
   }
 
@@ -126,8 +117,4 @@
       var results_data = json;
       resultsLoop(results_data);
     });
-  }
-  // for mobile.  Work on later.
-  function resetVideoHeight() {
-    $(".video").css("height", $("#results").width() * 9/16)
   }
